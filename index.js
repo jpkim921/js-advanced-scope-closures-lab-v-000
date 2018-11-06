@@ -6,8 +6,7 @@ function produceDrivingRange(blockRange){
     // console.log(difference)
 
     if (difference < 0) {
-      // return `${difference} out of range`
-      console.log(`${difference} out of range`)
+      return `${difference} out of range`
     }
 
     // "blocks out of range"
