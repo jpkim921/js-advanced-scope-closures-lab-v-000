@@ -5,9 +5,9 @@ function produceDrivingRange(blockRange){
     let travel = distanceRange - blockRange
     console.log(travel)
 
-    if (travel < 0) {
-      return `${}`
-    }
+    // if (travel < 0) {
+    //   return `${}`
+    // }
 
     "blocks out of range"
     "within range by 4"
