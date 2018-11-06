@@ -3,7 +3,7 @@ function produceDrivingRange(blockRange){
     let distance = Math.abs(parseInt(endPoint) - parseInt(startPoint));
 
     let difference = distance - blockRange
-    console.log(difference)
+    // console.log(difference)
 
     if (difference > 0) {
       return `${difference} blocks out of range`
