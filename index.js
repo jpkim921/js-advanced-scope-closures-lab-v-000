@@ -4,5 +4,8 @@ function produceDrivingRange(blockRange){
     let range = Math.abs(distance)
     console.log(range)
     console.log(startPoint, endPoint)
+
+    "blocks out of range"
+    "within range by 4"
   };
 }
