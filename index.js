@@ -9,7 +9,7 @@ function produceDrivingRange(blockRange){
       return `${difference} out of range`
     }
 
-    "blocks out of range"
-    "within range by 4"
+    // "blocks out of range"
+    // "within range by 4"
   };
 }
