@@ -18,5 +18,5 @@ function produceTipCalculator(percent) {
 }
 
 function createDriver(name) {
-  return new Class
+  return class
 }
